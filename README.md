@@ -1,9 +1,5 @@
-# Prediction results
-/
-/
-/
-/
-/
+## Prediction results
+This includes the produced summary from all the approaches (keywords, key sentences, key relations, key relations with pronoun resolution), on the test set of SAMSum and DialogSum. 
 
 
 ## Statistics
